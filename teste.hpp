@@ -2,5 +2,6 @@
 using namespace std;
 
 int main(){
-    cout << "teste" << endl; //comentario aleatorio
+    cout << "teste" << endl; 
+    cout << "teste2 << endl;
 }
